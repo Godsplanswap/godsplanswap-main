@@ -13,7 +13,7 @@ import { Colors } from './styled';
 export * from './components';
 
 const MEDIA_WIDTHS = {
-  upToExtraSmall: 540,
+  upToExtraSmall: 500,
   upToSmall: 720,
   upToMedium: 960,
   upToLarge: 1280,
